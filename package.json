@@ -1,0 +1,23 @@
+{
+  "name": "simple-req-logger",
+  "version": "0.0.1",
+  "description": "Simple request logger for tutorial purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/essaji/simple-req-logger.git"
+  },
+  "keywords": [
+    "Logger",
+    "Request"
+  ],
+  "author": "Eesa <essaji44@gmail.com> (http://eesazblog.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/essaji/simple-req-logger/issues"
+  },
+  "homepage": "https://github.com/essaji/simple-req-logger#readme"
+}
